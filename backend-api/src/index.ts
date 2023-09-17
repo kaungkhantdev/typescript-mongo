@@ -42,5 +42,3 @@ server.listen(config.port, () => {
 })
 
 app.use('/api', router())
-
-
